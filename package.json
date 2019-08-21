@@ -1,0 +1,10 @@
+{
+  "name": "jison-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jaceju <jaceju@kkbox.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jison": "^0.4.18"
+  }
+}
